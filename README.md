@@ -1,5 +1,5 @@
 - Hi, my name is Ian Stidsen
 - I’m interested in gaming, fitness and ofcourse programming
-- I’m currently learning fullstack programming
+- I’m currently learning front-end programming
 - I’m looking to collaborate on ...
 - You can reach me at ianstidsen@gmail.com
