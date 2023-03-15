@@ -1,4 +1,4 @@
 - Hi, my name is Ian Stidsen
 - I’m interested in gaming, fitness and ofcourse programming
 - I’m currently learning front-end programming
-- You can reach me at ianstidsen@gmail.com
+- You can reach me at ianstidsendev@gmail.com
