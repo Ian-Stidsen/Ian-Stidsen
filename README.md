@@ -2,7 +2,8 @@
 #### Front-end web developer
 ![Front-end web developer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Ian Lund Stidsen, an enthusiastic, self-taught front-end web developer and a freelance software engineer from Greenland.
+I always loved to learn new things, and I love software development because there are always new technologies to learn and implement them on my projects.
 
 Skills: REACT / JS / HTML / CSS / TS / jQuery / Bootstrap / LaTeX / Python / Git
 
