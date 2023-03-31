@@ -5,7 +5,7 @@
 I'm Ian Lund Stidsen, an enthusiastic, self-taught front-end web developer and a freelance software engineer from Greenland.
 I always loved to learn new things, and I love software development because there are always new technologies to learn and implement them on my projects.
 
-Skills: REACT / JS / HTML / CSS / TS / jQuery / Bootstrap / LaTeX / Python / Git
+Skills: ReactJS / NextJS / JS / HTML / CSS / TS / jQuery / Bootstrap / LaTeX / Python / Git
 
 
 
